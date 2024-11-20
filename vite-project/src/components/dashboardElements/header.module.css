@@ -1,0 +1,18 @@
+
+.head{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    align-items:baseline;
+    margin: 20px;
+}
+.logoutbutton{
+    background-color: rgb(203, 47, 47);
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+    margin-right: 20px;
+}
+.logoutbutton:hover{
+    background-color: red;
+}

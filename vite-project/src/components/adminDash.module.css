@@ -1,0 +1,10 @@
+.bgI{
+    background-image: url('/Users/sudhanshu/Documents/BroCode/EmployeeManage/vite-project/src/assets/flat-lay-workstation-with-copy-space-laptop.jpg');
+    background-size: cover; /* Cover the entire background */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; 
+    padding: 60px;
+    margin: 5px;
+
+    
+}

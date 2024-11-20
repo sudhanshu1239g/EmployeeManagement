@@ -1,0 +1,10 @@
+.backgroundStyle {
+    background-image: url('/Users/sudhanshu/Documents/BroCode/EmployeeManage/vite-project/src/assets/4219109.jpg'); /* Path to the image */
+    background-size: cover; /* Cover the entire background */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; 
+    padding: 60px;
+    margin: 5px;
+    border-radius: 20px;
+    margin-top: 0%;
+  }
