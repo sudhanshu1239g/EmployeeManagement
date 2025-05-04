@@ -44,6 +44,7 @@ function LoginPage({handleLogin}){
                 <p><strong>Employee</strong></p>
                 <p>Email: employee@gmail.com</p>
                 <p>Password: employee123</p>
+                <p>EmployeeName: Arjun</p>
             </div>
 
 
