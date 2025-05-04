@@ -35,6 +35,17 @@ function LoginPage({handleLogin}){
             }}
             className={styles.Loginbutton}>Log in</button>
 
+            <div className={styles.credentialsInfo}>
+                <h3>Test Login Credentials</h3>
+                <p><strong>Admin</strong></p>
+                <p>Email: admin@gmail.com</p>
+                <p>Password: admin123</p>
+                <br />
+                <p><strong>Employee</strong></p>
+                <p>Email: employee@gmail.com</p>
+                <p>Password: employee123</p>
+            </div>
+
 
         </div>
     )
