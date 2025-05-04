@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import styles from './LoginPage.module.css'
+import styles from './loginPage.module.css'
 function LoginPage({handleLogin}){
 
     const [email,setEmail]=useState('')
