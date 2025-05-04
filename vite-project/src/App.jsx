@@ -31,7 +31,7 @@ function App() {
   }, [authdata]);  // When authdata changes, check if user is logged in
 
   const handleLogin = (email, password) => {
-    if (email === "admin@example.com" && password === "123") {
+    if (email === "admin@gmail.com" && password === "admin123") {
       setUser("admin");
       const adminData = { role: "admin", email };
       localStorage.setItem("loggedInUser", JSON.stringify(adminData));
