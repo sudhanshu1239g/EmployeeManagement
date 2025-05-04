@@ -3,8 +3,8 @@ const employees = [
     {
         "id": 1,
         "firstName": "Arjun",
-        "email": "e@e.com",
-        "password": "123",
+        "email": "employee@gmail.com",
+        "password": "employee123",
         "taskCounts": {
             "active": 2,
             "newTask": 1,
@@ -203,8 +203,8 @@ const employees = [
 ];
 const admin = [{
     "id": 1,
-    "email": "admin@example.com",
-    "password": "123"
+    "email": "admin@gmail.com",
+    "password": "admin123"
 }];
 
 export const SetLocalStorage=()=>{
