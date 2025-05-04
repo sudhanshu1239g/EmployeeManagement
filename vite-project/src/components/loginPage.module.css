@@ -48,13 +48,13 @@
     background-color:rgb(33, 59, 20); 
 
 }
-credentialsInfo {
+.credentialsInfo {
     margin-top: 30px;
     padding: 20px;
     border: 2px dashed rgb(103, 225, 42);
     border-radius: 20px;
-    background-color: #111;
-    color: aliceblue;
+    background-color: #222; /* Dark background for better contrast */
+    color: white; /* White text */
     width: 80%;
     max-width: 500px;
     text-align: left;
